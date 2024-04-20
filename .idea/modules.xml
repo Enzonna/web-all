@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/schedule-system/schedule-system.iml" filepath="$PROJECT_DIR$/schedule-system/schedule-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-all.iml" filepath="$PROJECT_DIR$/web-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web01/web01.iml" filepath="$PROJECT_DIR$/web01/web01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web02servlet_test/web02servlet_test.iml" filepath="$PROJECT_DIR$/web02servlet_test/web02servlet_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web03-servletConfig-servletContext/web03-servletConfig-servletContext.iml" filepath="$PROJECT_DIR$/web03-servletConfig-servletContext/web03-servletConfig-servletContext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web04-forward-rediect/web04-forward-rediect.iml" filepath="$PROJECT_DIR$/web04-forward-rediect/web04-forward-rediect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web05-Cookie-Session/web05-Cookie-Session.iml" filepath="$PROJECT_DIR$/web05-Cookie-Session/web05-Cookie-Session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web06-filter/web06-filter.iml" filepath="$PROJECT_DIR$/web06-filter/web06-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web07-listener/web07-listener.iml" filepath="$PROJECT_DIR$/web07-listener/web07-listener.iml" />
+    </modules>
+  </component>
+</project>
